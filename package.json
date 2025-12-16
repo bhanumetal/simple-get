@@ -1,0 +1,11 @@
+{
+  "name": "simple-get",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bhanumetal/simple-get.git",
+  "author": "bhanumetal <101553709+bhanumetal@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
